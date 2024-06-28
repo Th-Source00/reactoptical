@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100..400&display=swap');
+
+
+
+#username,#names{
+    font-size: 19px;
+    font-family: "Playwrite NG Modern", cursive;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    text-transform: capitalize;
+
+
+
+}
+#names{
+    font-size: 15px;
+ 
+}
